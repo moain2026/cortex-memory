@@ -1,6 +1,6 @@
 # AGENTS.md — CORTEX
 ## ابدأ هنا
-1. STATUS.md ثم ROADMAP.md ثم docs/design/architecture.md.
+1. STATUS.md  ثم docs/design/architecture.md.
 ## الأوامر
 - تثبيت: `pip install numpy` · اختبار عادل: `python3 bench/audit.py` (5 بذور) · قديم: `python3 bench/run.py` (منحاز، للتاريخ فقط)
 ## القواعد

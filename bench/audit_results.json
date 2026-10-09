@@ -1,0 +1,38 @@
+{
+ "RAG": {
+  "all": "83.1\u00b10.6",
+  "updated": "0.2\u00b10.5",
+  "multihop": "0.0\u00b10.0",
+  "ms": 0.61
+ },
+ "RAG+recency": {
+  "all": "40.4\u00b12.8",
+  "updated": "68.2\u00b16.8",
+  "multihop": "0.0\u00b10.0",
+  "ms": 0.62
+ },
+ "CORTEX": {
+  "all": "94.4\u00b11.4",
+  "updated": "66.0\u00b14.8",
+  "multihop": "9.3\u00b15.2",
+  "ms": 27.59
+ },
+ "\u2212gate": {
+  "all": "94.4\u00b11.4",
+  "updated": "66.0\u00b14.8",
+  "multihop": "9.0\u00b15.0",
+  "ms": 31.19
+ },
+ "\u2212supersede": {
+  "all": "83.1\u00b10.6",
+  "updated": "0.0\u00b10.0",
+  "multihop": "5.7\u00b13.4",
+  "ms": 27.45
+ },
+ "\u2212spread": {
+  "all": "93.3\u00b12.2",
+  "updated": "61.7\u00b17.4",
+  "multihop": "0.0\u00b10.0",
+  "ms": 23.37
+ }
+}

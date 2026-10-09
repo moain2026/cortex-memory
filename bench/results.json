@@ -1,0 +1,28 @@
+{
+  "full_context": {
+    "accuracy": 0.692,
+    "update_accuracy": 0.0,
+    "avg_tokens": 15960,
+    "ms_per_query": 0.0
+  },
+  "plain_RAG_k6": {
+    "accuracy": 0.692,
+    "update_accuracy": 0.0,
+    "avg_tokens": 36,
+    "ms_per_query": 0.22
+  },
+  "CORTEX": {
+    "accuracy": 0.885,
+    "update_accuracy": 0.7,
+    "avg_tokens": 70,
+    "ms_per_query": 3.05,
+    "cells_stored": 1358,
+    "rejected_by_gate": 702
+  },
+  "meta": {
+    "stream_items": 2160,
+    "queries": 260,
+    "update_queries": 60,
+    "ingest_s": 3.0
+  }
+}
